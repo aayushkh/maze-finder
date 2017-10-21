@@ -1,8 +1,6 @@
 # InnerStrength
 
 
-
- MazeViewer class
  
  Program to read in and display a maze and a path through the maze. At user
  command displays a path through the maze if there is one.
