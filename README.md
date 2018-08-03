@@ -1,4 +1,4 @@
-# InnerStrength
+# Maze Finder
 
 
  
